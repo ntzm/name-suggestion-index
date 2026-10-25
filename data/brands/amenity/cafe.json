@@ -77,6 +77,19 @@
       }
     },
     {
+      "displayName": "200 Degrees Coffee",
+      "id": "200degreescoffee-a89223",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "200 Degrees Coffee",
+        "brand:wikidata": "Q140248241",
+        "cuisine": "coffee_shop",
+        "name": "200 Degrees Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "365",
       "id": "365-4351d9",
       "locationSet": {"include": ["es"]},
